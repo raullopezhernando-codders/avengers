@@ -1,6 +1,6 @@
 # Miembros
 
-* Nick Fury
+* Nick Fury agregado
 * Black panther
 * Black Widow
 * Capitána Marvel
